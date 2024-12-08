@@ -7,7 +7,7 @@ In the past 2 years, I've worked on various AI projects, such as LLMs, chatbots,
 
 
 
-- 📫 How to reach me **m.sohaib.wazir@gmail.com**
+- 📫 How to reach me : **m.sohaib.wazir@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

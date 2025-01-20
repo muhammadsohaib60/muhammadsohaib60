@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Sohaib</h1>
 <h3 align="center">Founder at Presenta Tech Innovations | AI Enthusiast | Entrepreneur | Top-rated on Upwork</h3>
 
-<h5> I am an Artificial Intelligence expert with 8 years of experience in Data Science, Machine Learning, Computer Vision, and Entrepreneurship. 
+<h5> I am an Artificial Intelligence expert with 6 years of experience in Data Science, Machine Learning, Computer Vision, and Entrepreneurship. 
 In the past 5 years, I've worked on various AI projects, such as LLMs, chatbots, AI apps, models, and web frameworks. My passion for AI research keeps growing, and I am now focusing on this field full-time as the founder of Presenta tech Innovations. I lead a team of 16 members and earn a five-digit USD income. I also manage a top-rated Upwork account. </h5>
 
 

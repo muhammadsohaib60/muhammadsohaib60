@@ -14,10 +14,5 @@ In the past 5 years, I've worked on various AI projects, such as LLMs, chatbots,
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/thesohaib/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/thesohaib/" height="30" width="40" /></a>
 </p>
 
-<div style="text-align: center;">
-  <p style="color: green; font-size: 16px;">Visitor Count</p>
-  <img src="https://profile-counter.glitch.me/muhammadsohaib60/count.svg" alt="Visitor Count">
-</div>
-
 
 

@@ -53,7 +53,7 @@ I also lead a **16-member AI team** at Presenta Tech Innovations, where we build
 ## Let's Connect  
 If you’re looking to streamline operations and unlock the power of AI automation, I’d be glad to collaborate.  
 
-| https://www.upwork.com/freelancers/muhammadsohaib421)  
+ https://www.upwork.com/freelancers/muhammadsohaib421  
 
 
 

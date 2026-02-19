@@ -50,9 +50,6 @@ Comprehensive security auditing toolkit for blockchain smart contracts
 - Professional audit report generation
 - Multi-language support (Solidity, Rust, Vyper)
 
-**Repository:** [smart-contract-audit-framework](https://github.com/muhammadsohaib/smart-contract-audit-framework)
-**Stats:** 500+ ⭐ | 120+ Forks
-
 ### n8n Automation Templates
 Production-ready workflow templates for enterprise automation
 - CRM and sales automation workflows
@@ -60,8 +57,7 @@ Production-ready workflow templates for enterprise automation
 - Multi-platform API integration examples
 - Pre-built integrations with 50+ services
 
-**Repository:** [n8n-automation-templates](https://github.com/muhammadsohaib/n8n-automation-templates)
-**Stats:** 380+ ⭐ | 95+ Forks
+
 
 ### Web3 Integration Library
 Comprehensive JavaScript/TypeScript library for Web3 integration
@@ -70,9 +66,6 @@ Comprehensive JavaScript/TypeScript library for Web3 integration
 - Real-time on-chain monitoring
 - Trading bot and yield farming automation
 
-**Repository:** [web3-integration-lib](https://github.com/muhammadsohaib/web3-integration-lib)
-**Stats:** 450+ ⭐ | 110+ Forks
-
 ### AI Chatbot Framework
 Enterprise-grade GPT-powered chatbot with n8n integration
 - LangChain and vector database support
@@ -80,8 +73,7 @@ Enterprise-grade GPT-powered chatbot with n8n integration
 - Custom memory and context management
 - Intelligent escalation to human agents
 
-**Repository:** [ai-chatbot-framework](https://github.com/muhammadsohaib/ai-chatbot-framework)
-**Stats:** 320+ ⭐ | 85+ Forks
+
 
 ### DeFi Analytics Dashboard
 Real-time monitoring and analytics for DeFi protocols
@@ -90,8 +82,6 @@ Real-time monitoring and analytics for DeFi protocols
 - Price alerts and portfolio monitoring
 - Historical data analysis and predictions
 
-**Repository:** [defi-analytics-dashboard](https://github.com/muhammadsohaib/defi-analytics-dashboard)
-**Stats:** 410+ ⭐ | 100+ Forks
 
 ### Blockchain Data Pipeline
 Serverless architecture for processing on-chain data at scale
@@ -100,10 +90,6 @@ Serverless architecture for processing on-chain data at scale
 - Historical data warehousing (BigQuery, Redshift)
 - GraphQL API for data querying
 
-**Repository:** [blockchain-data-pipeline](https://github.com/muhammadsohaib/blockchain-data-pipeline)
-**Stats:** 370+ ⭐ | 90+ Forks
-
----
 
 ##  Recent Client Work
 
@@ -115,6 +101,52 @@ Serverless architecture for processing on-chain data at scale
 | **Real-Time Data Pipeline** | 500K+ daily transactions processed | Node.js, BigQuery, Elasticsearch |
 | **CRM Automation Suite** | 50+ automated processes | Zapier, HubSpot, Salesforce, Slack |
 
+
+##  GitHub Statistics
+
+
+
+**Most Used Languages:**
+- TypeScript/JavaScript: 35%
+- Python: 28%
+- Solidity: 20%
+- Rust: 12%
+- Go: 5%
+
 ---
 
-## 📈 GitHub Statistics
+##  Certifications & Recognition
+
+- n8n Certified Specialist - Advanced Architecture
+- Zapier Certified Expert - Complex Integrations
+- Google Cloud Certified - Data Engineering
+- Ethereum Smart Contract Security Certified
+- Upwork Top Rated Plus (2024, 2025)
+- Published Security Research - DeFi Protocols
+
+---
+
+##  Connect With Me
+
+- **Email:** sohaib@presentatechinnovations.com
+- **Upwork:** https://www.upwork.com/freelancers/muhammadsohaib421
+- **LinkedIn:** https://www.linkedin.com/in/thesohaib/
+- **GitHub:** https://github.com/muhammadsohaib
+- **Website:** https://presentatechinnovations.com
+- **Telegram:** @MuhammadSohaib
+
+---
+
+##  Open to Collaboration
+
+I'm actively looking for opportunities in:
+- **Enterprise Automation:** Zapier→n8n migrations, workflow optimization
+- **Web3 Development:** Smart contract development, DeFi integration
+- **AI Projects:** Custom LLM agents, chatbots, predictive analytics
+- **Open Source:** Contributing to blockchain and automation projects
+- **Mentorship:** Helping developers in Web3 and AI automation
+
+---
+
+**Let's build something extraordinary together.** Feel free to reach out!
+

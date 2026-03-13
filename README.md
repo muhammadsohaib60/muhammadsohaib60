@@ -12,7 +12,7 @@ Leading a 16-member team at Presenta Tech Innovations.
 Currently focused on **high-value smart contract projects**, ready to deliver enterprise-grade security and automation solutions.  
 
 Stats:  
-- 213+ Projects  
+- 218+ Projects  
 - $3.2M+ Client Value  
 - 50+ Enterprise Clients  
 - 94% Retention  

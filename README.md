@@ -27,7 +27,7 @@ Stats:
 - Specialization: Intelligent agents, chatbots, workflow automation  
 
 **Web3 & Blockchain**  
-- Smart Contracts: Solidity, Rust, Vyper  
+- Smart Contracts: Solidity, Rust, Vyper, Move 
 - Networks: Ethereum, Solana, Polygon, Arbitrum  
 - Audits: 25+ protocols, 180+ vulnerabilities identified  
 - Tools: Hardhat, Foundry, Anchor, Web3.js  
@@ -106,7 +106,7 @@ Stats:
 - Upwork: [Profile](https://www.upwork.com/freelancers/muhammadsohaib421)  
 - LinkedIn: [Profile](https://www.linkedin.com/in/thesohaib/)  
 - GitHub: [Profile](https://github.com/muhammadsohaib)  
-- Telegram: @MuhammadSohaib  
+- Email — sohaib@presentatechinnovations.com
 
 ---
 
